@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\user\Desktop\IR omni transciever\IRremote-STM32-master"/>
+			<item value="C:\Users\user\Desktop\IR omni transciever\firmware\test_dfu"/>
+			<item value="D:\Program Files\STMicroelectronics\STM32Cube_FW_F0_V1.6.0\Projects\STM32072B_EVAL\Applications\USB_Device\CDC_Standalone\SW4STM32"/>
+			<item value="D:\Program Files\STMicroelectronics\STM32Cube_FW_F0_V1.6.0\Projects\STM32F072B-Discovery\Applications\USB_Device\DFU_Standalone\SW4STM32"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
